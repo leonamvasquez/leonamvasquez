@@ -3,7 +3,7 @@
 
 <p align="center">I ❤️ face significant challenges using technology. <br><br> From implementing infrastructure using tools like Terraform to containerization with Docker and cloud services such as AWS and Azure, I am <strong>passionate about exploring new technologies</strong> and leveraging them to craft high-quality solutions. Currently, I work as an <strong>infrastructure analyst with DevOps skills</strong>, focusing on managing and automating infrastructure environments.</p>&nbsp
 <a href="https://github.com/leonamvasquez/leonamvasquez">
-  <img width="37%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamvasquez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=13101E&langs_count=3" /></a>
+  <img width="38%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamvasquez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=13101E&langs_count=3" /></a>
 <a href="https://github.com/leonamvasquez/leonamvasquez">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonamvasquez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=13101E" alt="Martin's GitHub Stats" /></a>
  &nbsp;
