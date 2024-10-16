@@ -24,7 +24,6 @@
 - [ ] **ArgoCD** 
 - [ ] **OpenShift** 
 - [ ] **OpenTelemetry**
-<br>
 
 ## Contacts:
 <div>
