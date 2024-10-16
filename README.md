@@ -16,21 +16,28 @@
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,git,gitlab,github,githubactions,kafka,grafana,prometheus,elasticsearch,aws,azure,gcp,go,python,bash" />
   </a>
 </div>
-
-
 &nbsp;
 &nbsp;
 
 ## Studying at the moment:
+
 - [ ] **ArgoCD** 
 - [ ] **OpenShift** 
 - [ ] **OpenTelemetry**
+<br>
 
 ## Contacts:
-<div> 
-<a href="https://www.instagram.com/leonamvasquez" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
-<a href = "mailto:contato.leonamvasquezr@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leonamvasquez/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+<div>
+  <a href="https://www.instagram.com/leonamvasquez" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" style="margin-right: 5px;">
+  </a>
+  <a href="mailto:contato.leonamvasquezr@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" style="margin-right: 5px;">
+  </a>
+  <a href="https://www.linkedin.com/in/leonamvasquez/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
