@@ -1,31 +1,38 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
 ## Hello 👋
 
 <p align="center">I tackle significant challenges with technology. 🐧<br><br> From building scalable infrastructure to deploying and managing microservices in cloud environments, I am <strong>passionate about exploring new technologies</strong> and leveraging them to craft high-quality solutions. Currently, I work as a <strong>DevOps Engineer</strong>, focusing on automating infrastructure, creating and managing APIs, handling messaging systems, and ensuring the reliability and scalability of microservices architectures.</p>&nbsp
-<a href="https://github.com/leonamvasquez/leonamvasquez">
-  <img width="37%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamvasquez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=13101E&langs_count=3" /></a>
-<a href="https://github.com/leonamvasquez/leonamvasquez">
-  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api?username=leonamvasquez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=13101E" alt="Leonam's GitHub Stats" /></a>
- &nbsp;
- &nbsp;
 
-## My Skills
+<p align="center">
+  <a href="https://github.com/leonamvasquez/leonamvasquez">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonamvasquez&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamvasquez&layout=compact&theme=midnight-purple&hide_border=true" />
+  </a>
+</p>
 
-### Main Stack: DevOps Tools
-<div align="center">
+---
+
+## Main Skills
+
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,git,gitlab,github,githubactions,kafka,grafana,prometheus,elasticsearch,aws,azure,gcp,go,python,bash" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,git,gitlab,github,githubactions,kafka,grafana,prometheus,elasticsearch,aws,azure,gcp,go,python,bash" >
   </a>
 </div>
-&nbsp;
-&nbsp;
 
-## Studying at the moment:
+---
+
+## Currently Studying
 
 - [ ] **ArgoCD** 
 - [ ] **OpenShift** 
 - [ ] **OpenTelemetry**
 
-## Contacts:
+---
+
+## Contacts
+
 <div>
   <a href="https://www.instagram.com/leonamvasquez" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" style="margin-right: 5px;">
@@ -38,5 +45,4 @@
   </a>
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
