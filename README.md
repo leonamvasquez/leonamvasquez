@@ -37,13 +37,13 @@
   <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" />
 </div>
 
-## 🔐 Linux
+## 🐧 Linux
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,redhat,debian,ubuntu" />
 </div>
 
-## 🧠 Scripting & Dev
+## 💻 Scripting & Dev
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,go,bash" />
