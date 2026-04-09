@@ -56,9 +56,6 @@
 ## Contact
 
 <div>
-  <a href="https://www.instagram.com/leonamvasquez" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" style="margin-right: 5px;">
-  </a>
   <a href="mailto:contato.leonamvasquezr@gmail.com" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" style="margin-right: 5px;">
   </a>
