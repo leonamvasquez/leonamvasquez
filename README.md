@@ -1,3 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
+## Hello
+
+<p align="center">
+I tackle significant challenges with technology.<br><br>
+From building scalable infrastructure to deploying and managing microservices in cloud environments, I am <strong>passionate about exploring new technologies</strong> and leveraging them to craft high-quality solutions. Currently, I work as a <strong>Senior DevOps Engineer</strong>, focusing on automating infrastructure, integrating APIs, managing messaging systems, and ensuring scalability and reliability of microservices-based architectures.
+</p>
+
+---
+
 ## Tech Stack
 
 ### Cloud
@@ -5,7 +16,6 @@
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp&theme=dark&perline=8" />
 </div>
-
 
 ### Infrastructure as Code
 
@@ -16,13 +26,11 @@
   <img height="48" src="https://cdn.simpleicons.org/ansible" alt="Ansible" title="Ansible" />
 </div>
 
-
 ### Containers & Orchestration
 
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,argocd,consul&theme=dark&perline=8" />
 </div>
-
 
 ### CI/CD & Version Control
 
@@ -30,40 +38,17 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,gitlab,azuredevops,jenkins,git&theme=dark&perline=8" />
 </div>
 
-
 ### DevSecOps & Security
 
 <div align="left">
-  <img height="48"
-       src="https://cdn.simpleicons.org/sonarqubeserver"
-       alt="SonarQube"
-       title="SonarQube" />
-  <img height="48"
-       src="https://defectdojo.com/hs-fs/hubfs/Circle.png?height=1800&name=Circle.png&width=1800"
-       alt="DefectDojo"
-       title="DefectDojo" />
-  <img height="48"
-       src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/owasp-zap.png"
-       alt="OWASP ZAP"
-       title="OWASP ZAP" />
-<img height="48"
-     src="https://skills.syvixor.com/api/icons?i=vault&perline=1"
-     alt="HashiCorp Vault"
-     title="HashiCorp Vault" />
-  <img height="48"
-       src="https://avatars.githubusercontent.com/u/62629792?s=96&v=4"
-       alt="Orca Security"
-       title="Orca Security" />
-  <img height="48"
-       src="https://cdn.simpleicons.org/trivy/1904DA/AFA7FF"
-       alt="Trivy"
-       title="Trivy" />
-  <img height="48"
-       src="https://cdn.simpleicons.org/dependencycheck/555555/FF9B66"
-       alt="OWASP Dependency-Check"
-       title="OWASP Dependency-Check" />
+  <img height="48" src="https://cdn.simpleicons.org/sonarqubeserver" alt="SonarQube" title="SonarQube" />
+  <img height="48" src="https://defectdojo.com/hs-fs/hubfs/Circle.png?height=1800&name=Circle.png&width=1800" alt="DefectDojo" title="DefectDojo" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/owasp-zap.png" alt="OWASP ZAP" title="OWASP ZAP" />
+  <img height="48" src="https://skills.syvixor.com/api/icons?i=vault&perline=1" alt="HashiCorp Vault" title="HashiCorp Vault" />
+  <img height="48" src="https://avatars.githubusercontent.com/u/62629792?s=96&v=4" alt="Orca Security" title="Orca Security" />
+  <img height="48" src="https://cdn.simpleicons.org/trivy/1904DA/AFA7FF" alt="Trivy" title="Trivy" />
+  <img height="48" src="https://cdn.simpleicons.org/dependencycheck/555555/FF9B66" alt="OWASP Dependency-Check" title="OWASP Dependency-Check" />
 </div>
-
 
 ### Observability & Monitoring
 
@@ -71,13 +56,11 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,elasticsearch,datadog,opentelemetry,zabbix&theme=dark&perline=8" />
 </div>
 
-
 ### Programming & Scripting
 
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,bash&theme=dark&perline=8" />
 </div>
-
 
 ### Databases & Messaging
 
@@ -85,19 +68,37 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,dynamodb,kafka&theme=dark&perline=8" />
 </div>
 
-
 ### Integration Platforms
 
 <div align="left">
-  <img height="48"
-       src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mulesoft/default.svg"
-       alt="MuleSoft"
-       title="MuleSoft" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mulesoft/default.svg" alt="MuleSoft" title="MuleSoft" />
 </div>
-
 
 ### Operating Systems
 
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&perline=8" />
 </div>
+
+---
+
+## Currently Exploring
+
+- ArgoCD (GitOps)
+- OpenTelemetry (Observability)
+- Cilium (eBPF Networking)
+
+---
+
+## Contact
+
+<div>
+  <a href="mailto:contato.leonamvasquezr@gmail.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" style="margin-right: 5px;">
+  </a>
+  <a href="https://www.linkedin.com/in/leonamvasquez/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin">
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
